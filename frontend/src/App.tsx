@@ -2,6 +2,6 @@ import React from "react";
 import "./App.css";
 
 const App = () => {
-  return <div>Hello Hojin</div>;
+  return <div>Hello</div>;
 };
 export default App;
