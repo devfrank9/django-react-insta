@@ -137,7 +137,4 @@ html {
   font-size: 62.5%;
   box-sizing: border-box;
 }
-body {
-  max-width: 48rem;
-}
 `;
